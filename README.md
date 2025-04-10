@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivani Gupta</h1>
-<h3 align="center">Software Developer | Bringing Ideas to Life with Code</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=s-g22" alt="s-g22" /></a> </p>
+<h3 align="center">"Exploring the Cloud ☁️ | Crafting Code 💻 | Building the Future 🚀"</h3>
 
 - 🌱 I’m currently learning **cloud computing ☁️🚀**
 
